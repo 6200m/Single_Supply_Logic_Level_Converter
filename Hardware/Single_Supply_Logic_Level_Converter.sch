@@ -22070,6 +22070,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pin name="VCCA" x="0" y="0" visible="off" length="short" direction="sup" rot="R90"/>
 <text x="0" y="2.794" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
 </symbol>
+<symbol name="GND-ISO">
+<description>&lt;h3&gt;Isolated ground supply&lt;/h3&gt;</description>
+<pin name="GND-ISO" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
+<wire x1="-2.032" y1="0" x2="2.032" y2="0" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="-0.762" x2="1.27" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-0.508" y1="-1.524" x2="0.508" y2="-1.524" width="0.254" layer="94"/>
+<wire x1="1.27" y1="2.032" x2="1.27" y2="0.508" width="0.254" layer="94"/>
+<text x="0" y="-1.778" size="1.778" layer="96" align="top-center">&gt;VALUE</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="VIN" prefix="SUPPLY">
@@ -22091,6 +22100,20 @@ You are welcome to use this library for commercial purposes. For attribution, we
 &lt;p&gt;Generic analog supply symbol.&lt;/p&gt;</description>
 <gates>
 <gate name="G$1" symbol="VCCA" x="0" y="0"/>
+</gates>
+<devices>
+<device name="">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="GND-ISO" prefix="GND-ISO">
+<description>&lt;h3&gt;Isolated Ground Supply&lt;/h3&gt;
+&lt;p&gt;Generic isolated ground supply symbol.&lt;/p&gt;</description>
+<gates>
+<gate name="G$1" symbol="GND-ISO" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
@@ -23943,6 +23966,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND15" library="SparkFun" deviceset="GND" device=""/>
 <part name="LOGO3" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_FLAME" device=".1_INCH" value="SFE_LOGO_FLAME.1_INCH"/>
 <part name="LOGO4" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="S"/>
+<part name="GND-ISO1" library="SparkFun-PowerSymbols" deviceset="GND-ISO" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -24046,6 +24070,7 @@ exceed 80mA. </text>
 <instance part="GND15" gate="1" x="167.64" y="50.8"/>
 <instance part="LOGO3" gate="G$1" x="134.62" y="45.72"/>
 <instance part="LOGO4" gate="G$1" x="236.22" y="48.26"/>
+<instance part="GND-ISO1" gate="G$1" x="30.48" y="88.9"/>
 </instances>
 <busses>
 </busses>
