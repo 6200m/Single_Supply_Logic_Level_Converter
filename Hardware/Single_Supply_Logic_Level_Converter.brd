@@ -6457,7 +6457,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="C1" library="SparkFun-Capacitors" package="0603-CAP" value="0.1uF" x="9.36625" y="15.24">
 <attribute name="PROD_ID" value="CAP-00810" x="24.60625" y="-8.89" size="1.778" layer="27" display="off"/>
 </element>
-<element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="14.478" y="6.9723" rot="MR0"/>
+<element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="13.9446" y="6.9977" rot="MR0"/>
 <element name="C2" library="SparkFun-Capacitors" package="0603-CAP" value="0.1uF" x="18.57375" y="15.24" rot="R180">
 <attribute name="PROD_ID" value="CAP-00810" x="-0.47625" y="39.37" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
@@ -6486,7 +6486,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="RES-09385" x="16.03375" y="17.30375" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R5" library="SparkFun-Resistors" package="0603" value="1.8M" x="19.3675" y="17.30375">
-<attribute name="PROD_ID" value="13994" x="19.3675" y="17.30375" size="1.778" layer="27" display="off"/>
+<attribute name="PROD_ID" value="RES-13994" x="19.3675" y="17.30375" size="1.778" layer="27" display="off"/>
 </element>
 <element name="JP3" library="SparkFun-Connectors" package="1X04" value="455-1750-1-ND" x="26.67" y="24.13" rot="R270">
 <attribute name="PROD_ID" value="CONN-09696" x="26.67" y="24.13" size="1.778" layer="27" rot="R270" display="off"/>

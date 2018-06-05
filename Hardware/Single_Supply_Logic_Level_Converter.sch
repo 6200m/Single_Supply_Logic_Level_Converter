@@ -18146,7 +18146,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="13994" constant="no"/>
+<attribute name="PROD_ID" value="RES-13994" constant="no"/>
 <attribute name="VALUE" value="1.8M" constant="no"/>
 </technology>
 </technologies>
