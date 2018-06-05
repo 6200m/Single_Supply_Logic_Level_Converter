@@ -20288,8 +20288,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND6" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LETTER" device=""/>
 <part name="SUPPLY5" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
-<part name="R1" library="SparkFun-Resistors" deviceset="200KOHM" device="-0603-1/10W-1%" value="200k"/>
-<part name="R2" library="SparkFun-Resistors" deviceset="1.8MOHM" device="" value="1.8M"/>
+<part name="R6" library="SparkFun-Resistors" deviceset="200KOHM" device="-0603-1/10W-1%" value="200k"/>
+<part name="R5" library="SparkFun-Resistors" deviceset="1.8MOHM" device="" value="1.8M"/>
 <part name="GND8" library="SparkFun" deviceset="GND" device=""/>
 <part name="SUPPLY6" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="SUPPLY9" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>
@@ -20305,9 +20305,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY12" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="U3" library="SparkFun-IC-Power" deviceset="V_REG_MIC5205" device="ADJ" value="ADJ"/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
-<part name="R4" library="SparkFun-Resistors" deviceset="13KOHM" device="-0603-1/10W-1%" value="13k"/>
-<part name="R5" library="SparkFun-Resistors" deviceset="22KOHM" device="-0603-1/10W-1%" value="22k"/>
-<part name="R6" library="SparkFun-Resistors" deviceset="RESISTOR" device="AXIAL-0.3" value=" "/>
+<part name="R3" library="SparkFun-Resistors" deviceset="13KOHM" device="-0603-1/10W-1%" value="13k"/>
+<part name="R2" library="SparkFun-Resistors" deviceset="22KOHM" device="-0603-1/10W-1%" value="22k"/>
+<part name="R1" library="SparkFun-Resistors" deviceset="RESISTOR" device="AXIAL-0.3" value=" "/>
 <part name="GND5" library="SparkFun" deviceset="GND" device=""/>
 <part name="C4" library="SparkFun-Capacitors" deviceset="470PF" device="-0603-50V-5%" value="470pF"/>
 <part name="GND7" library="SparkFun" deviceset="GND" device=""/>
@@ -20323,7 +20323,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND9" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$5" library="SparkFun-PowerSymbols" deviceset="VCCA" device=""/>
 <part name="D1" library="SparkFun-LED" deviceset="LED-RED" device="0603" value="RED"/>
-<part name="R3" library="SparkFun-Resistors" deviceset="1KOHM" device="-0603-1/10W-1%" value="1k"/>
+<part name="R4" library="SparkFun-Resistors" deviceset="1KOHM" device="-0603-1/10W-1%" value="1k"/>
 <part name="GND10" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$6" library="SparkFun-PowerSymbols" deviceset="VCCA" device=""/>
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
@@ -20382,8 +20382,8 @@ the above eq.</text>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 <instance part="FRAME1" gate="V" x="147.32" y="0"/>
 <instance part="SUPPLY5" gate="G$1" x="223.52" y="147.32"/>
-<instance part="R1" gate="G$1" x="213.36" y="121.92" rot="R90"/>
-<instance part="R2" gate="G$1" x="213.36" y="137.16" rot="R90"/>
+<instance part="R6" gate="G$1" x="213.36" y="121.92" rot="R90"/>
+<instance part="R5" gate="G$1" x="213.36" y="137.16" rot="R90"/>
 <instance part="GND8" gate="1" x="127" y="127"/>
 <instance part="SUPPLY6" gate="G$1" x="7.62" y="167.64"/>
 <instance part="SUPPLY9" gate="G$1" x="165.1" y="83.82"/>
@@ -20399,9 +20399,9 @@ the above eq.</text>
 <instance part="SUPPLY12" gate="G$1" x="208.28" y="83.82"/>
 <instance part="U3" gate="U1" x="27.94" y="160.02"/>
 <instance part="GND1" gate="1" x="12.7" y="147.32"/>
-<instance part="R4" gate="G$1" x="48.26" y="142.24" rot="R90"/>
-<instance part="R5" gate="G$1" x="58.42" y="119.38" rot="R90"/>
-<instance part="R6" gate="G$1" x="58.42" y="142.24" rot="R90"/>
+<instance part="R3" gate="G$1" x="48.26" y="142.24" rot="R90"/>
+<instance part="R2" gate="G$1" x="58.42" y="119.38" rot="R90"/>
+<instance part="R1" gate="G$1" x="58.42" y="142.24" rot="R90"/>
 <instance part="GND5" gate="1" x="58.42" y="109.22"/>
 <instance part="C4" gate="G$1" x="43.18" y="119.38"/>
 <instance part="GND7" gate="1" x="43.18" y="111.76"/>
@@ -20417,7 +20417,7 @@ the above eq.</text>
 <instance part="GND9" gate="1" x="86.36" y="116.84"/>
 <instance part="U$5" gate="G$1" x="86.36" y="132.08"/>
 <instance part="D1" gate="G$1" x="101.6" y="121.92"/>
-<instance part="R3" gate="G$1" x="101.6" y="132.08" rot="R90"/>
+<instance part="R4" gate="G$1" x="101.6" y="132.08" rot="R90"/>
 <instance part="GND10" gate="1" x="101.6" y="111.76"/>
 <instance part="U$6" gate="G$1" x="101.6" y="139.7"/>
 <instance part="J3" gate="G$1" x="154.94" y="63.5"/>
@@ -20447,7 +20447,7 @@ the above eq.</text>
 <pinref part="C3" gate="G$1" pin="1"/>
 <pinref part="U2" gate="G$1" pin="VOUT"/>
 <pinref part="SUPPLY5" gate="G$1" pin="5V"/>
-<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="213.36" y1="142.24" x2="213.36" y2="144.78" width="0.1524" layer="91"/>
 <junction x="213.36" y="144.78"/>
 </segment>
@@ -20521,7 +20521,7 @@ the above eq.</text>
 <wire x1="223.52" y1="114.3" x2="223.52" y2="111.76" width="0.1524" layer="91"/>
 <junction x="223.52" y="114.3"/>
 <wire x1="223.52" y1="114.3" x2="213.36" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="213.36" y1="116.84" x2="213.36" y2="114.3" width="0.1524" layer="91"/>
 <junction x="213.36" y="114.3"/>
 <wire x1="213.36" y1="114.3" x2="195.58" y2="114.3" width="0.1524" layer="91"/>
@@ -20593,7 +20593,7 @@ the above eq.</text>
 <pinref part="GND1" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="58.42" y1="114.3" x2="58.42" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="GND5" gate="1" pin="GND"/>
 </segment>
@@ -20670,8 +20670,8 @@ the above eq.</text>
 <pinref part="U2" gate="G$1" pin="FB"/>
 <wire x1="187.96" y1="139.7" x2="193.04" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="193.04" y1="139.7" x2="193.04" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="R2" gate="G$1" pin="1"/>
-<pinref part="R1" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="213.36" y1="132.08" x2="213.36" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="129.54" x2="213.36" y2="127" width="0.1524" layer="91"/>
 <junction x="213.36" y="129.54"/>
@@ -20722,8 +20722,8 @@ the above eq.</text>
 <net name="N$11" class="0">
 <segment>
 <wire x1="58.42" y1="137.16" x2="58.42" y2="129.54" width="0.1524" layer="91"/>
-<pinref part="R4" gate="G$1" pin="1"/>
-<pinref part="R5" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R2" gate="G$1" pin="2"/>
 <wire x1="48.26" y1="137.16" x2="48.26" y2="129.54" width="0.1524" layer="91"/>
 <pinref part="U3" gate="U1" pin="BP"/>
 <wire x1="48.26" y1="129.54" x2="58.42" y2="129.54" width="0.1524" layer="91"/>
@@ -20736,15 +20736,15 @@ the above eq.</text>
 <pinref part="C4" gate="G$1" pin="1"/>
 <junction x="43.18" y="129.54"/>
 <junction x="58.42" y="129.54"/>
-<pinref part="R6" gate="G$1" pin="1"/>
+<pinref part="R1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="VCCA" class="0">
 <segment>
-<pinref part="R6" gate="G$1" pin="2"/>
+<pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="147.32" x2="58.42" y2="154.94" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="VCCA"/>
-<pinref part="R4" gate="G$1" pin="2"/>
+<pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="154.94" x2="58.42" y2="170.18" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="147.32" x2="48.26" y2="154.94" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="154.94" x2="58.42" y2="154.94" width="0.1524" layer="91"/>
@@ -20782,14 +20782,14 @@ the above eq.</text>
 <pinref part="U$5" gate="G$1" pin="VCCA"/>
 </segment>
 <segment>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="R4" gate="G$1" pin="2"/>
 <wire x1="101.6" y1="137.16" x2="101.6" y2="139.7" width="0.1524" layer="91"/>
 <pinref part="U$6" gate="G$1" pin="VCCA"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R4" gate="G$1" pin="1"/>
 <pinref part="D1" gate="G$1" pin="A"/>
 <wire x1="101.6" y1="127" x2="101.6" y2="124.46" width="0.1524" layer="91"/>
 </segment>
