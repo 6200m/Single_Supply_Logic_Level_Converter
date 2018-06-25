@@ -20346,12 +20346,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="12.7" y="88.9" size="3.048" layer="97" font="vector" ratio="15">Logic Level Conversion</text>
 <text x="7.62" y="177.8" size="3.048" layer="97" font="vector" ratio="15">VCCA voltage regulation</text>
 <text x="114.3" y="177.8" size="3.048" layer="97" font="vector" ratio="15">5V Boost Regulator</text>
-<text x="63.5" y="165.1" size="1.9304" layer="97" font="vector" ratio="15">Vout = 1.24 * (R2/R1 + 1)</text>
-<text x="63.5" y="147.32" size="1.778" layer="97" font="vector" ratio="15">R1 to be less than 470K</text>
-<text x="63.5" y="152.4" size="1.9304" layer="97" font="vector" ratio="15">Program output voltage by 
-changing the value of R6
-substituting for R1 in 
-the above eq.</text>
+<text x="63.5" y="165.1" size="1.9304" layer="97" font="vector" ratio="15">VCCA = 1.24 * (R2/R1 + 1)</text>
+<text x="63.5" y="152.4" size="1.9304" layer="97" font="vector" ratio="15"></text>
+<text x="63.5" y="157.48" size="1.9304" layer="97" font="vector" ratio="15">VCCA = 2.5V
+R1 = 22K</text>
+<text x="63.5" y="149.86" size="1.9304" layer="97" font="vector" ratio="15">VCCA = 1.8V
+R1 = 49K</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="83.82" y="48.26"/>
