@@ -20317,7 +20317,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="U$4" library="SparkFun-PowerSymbols" deviceset="VCCA" device=""/>
 <part name="FD1" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="FD2" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
-<part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="C7" library="SparkFun-Capacitors" deviceset="10UF-POLAR" device="-EIA3216-16V-10%(TANT)" value="10uF"/>
 <part name="GND9" library="SparkFun" deviceset="GND" device=""/>
@@ -20411,7 +20410,6 @@ R1 = 49K</text>
 <instance part="U$4" gate="G$1" x="203.2" y="83.82"/>
 <instance part="FD1" gate="G$1" x="213.36" y="25.4"/>
 <instance part="FD2" gate="G$1" x="218.44" y="25.4"/>
-<instance part="FD3" gate="G$1" x="223.52" y="25.4"/>
 <instance part="FD4" gate="G$1" x="228.6" y="25.4"/>
 <instance part="C7" gate="G$1" x="86.36" y="127"/>
 <instance part="GND9" gate="1" x="86.36" y="116.84"/>
