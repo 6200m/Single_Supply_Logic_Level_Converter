@@ -20328,6 +20328,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="J3" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
 <part name="J4" library="SparkFun-Connectors" deviceset="CONN_01" device=""/>
 <part name="GND15" library="SparkFun" deviceset="GND" device=""/>
+<part name="FD3" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 </parts>
 <sheets>
 <sheet>
@@ -20421,6 +20422,7 @@ R1 = 49K</text>
 <instance part="J3" gate="G$1" x="154.94" y="63.5"/>
 <instance part="J4" gate="G$1" x="154.94" y="55.88"/>
 <instance part="GND15" gate="1" x="167.64" y="50.8"/>
+<instance part="FD3" gate="G$1" x="223.52" y="25.4"/>
 </instances>
 <busses>
 </busses>

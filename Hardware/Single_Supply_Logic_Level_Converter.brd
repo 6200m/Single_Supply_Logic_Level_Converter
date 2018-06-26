@@ -7135,8 +7135,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="C4" library="SparkFun-Capacitors" package="0603" value="470pF" x="8.5725" y="5.08" rot="R90">
 <attribute name="PROD_ID" value="CAP-07884" x="8.5725" y="5.08" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="FD1" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="19.05" y="25.7175"/>
-<element name="FD2" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="19.05" y="25.7175" rot="MR0"/>
+<element name="FD1" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="19.05" y="24.92375"/>
+<element name="FD2" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="19.05" y="24.92375" rot="MR0"/>
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="6.82625" y="1.11125" rot="MR0"/>
 <element name="C7" library="SparkFun-Capacitors" package="EIA3216" value="10uF" x="14.63675" y="5.6388" rot="R90">
 <attribute name="PROD_ID" value="CAP-00811" x="14.63675" y="5.6388" size="1.778" layer="27" rot="R90" display="off"/>
@@ -7197,6 +7197,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U$47" library="buzzard_labels (99)" package="VCCA_DFLT_#_3#3V0" value="" x="19.2278" y="11.5316" rot="MR0"/>
 <element name="U$48" library="buzzard_labels (100)" package="VCCB_#_5V0" value="" x="16.5862" y="9.4234" rot="MR0"/>
 <element name="U$49" library="buzzard_labels" package="R10" value="" x="14.224" y="1.2446" rot="MR0"/>
+<element name="FD3" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="6.82625" y="1.11125"/>
 </elements>
 <signals>
 <signal name="5V">
