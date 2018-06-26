@@ -20334,7 +20334,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="167.64" y="10.16" size="2.54" layer="94" font="vector">Mary West</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <text x="116.84" y="167.64" size="2.032" layer="97" font="vector" ratio="15">VIN: 3 - 5.5V</text>
 <wire x1="0" y1="96.52" x2="111.76" y2="96.52" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="111.76" y1="96.52" x2="111.76" y2="185.42" width="0.1524" layer="97" style="shortdash"/>
