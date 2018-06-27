@@ -7120,7 +7120,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CONN-09696" x="24.13" y="1.27" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="18.415" y="19.05" rot="MR0"/>
-<element name="U3" library="SparkFun-IC-Power" package="SOT23-5" value="ADJ" x="11.43" y="5.715" rot="R180">
+<element name="U3" library="SparkFun-IC-Power" package="SOT23-5" value="MIC5205(ADJ)" x="11.43" y="5.715" rot="R180">
 <attribute name="PROD_ID" value="VREG-12594" x="11.43" y="5.715" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R3" library="SparkFun-Resistors" package="0603" value="13k" x="12.7" y="1.27">

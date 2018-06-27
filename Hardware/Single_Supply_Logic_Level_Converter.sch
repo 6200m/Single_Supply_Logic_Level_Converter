@@ -19841,7 +19841,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <technologies>
 <technology name="">
 <attribute name="PROD_ID" value="VREG-12594" constant="no"/>
-<attribute name="VALUE" value="ADJ" constant="no"/>
+<attribute name="VALUE" value="MIC5205(ADJ)" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -20303,7 +20303,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="J2" library="SparkFun-Connectors" deviceset="CONN_04" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".1_INCH" value="SFE_LOGO_NAME_FLAME.1_INCH"/>
 <part name="SUPPLY12" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
-<part name="U3" library="SparkFun-IC-Power" deviceset="V_REG_MIC5205" device="ADJ" value="ADJ"/>
+<part name="U3" library="SparkFun-IC-Power" deviceset="V_REG_MIC5205" device="ADJ" value="MIC5205(ADJ)"/>
 <part name="GND1" library="SparkFun" deviceset="GND" device=""/>
 <part name="R3" library="SparkFun-Resistors" deviceset="13KOHM" device="-0603-1/10W-1%" value="13k"/>
 <part name="R2" library="SparkFun-Resistors" deviceset="22KOHM" device="-0603-1/10W-1%" value="22k"/>
