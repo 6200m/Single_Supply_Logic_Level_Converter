@@ -1,20 +1,20 @@
 /*
-Single Supply Logic Level COnverter Hook-Up Guide
+Single Supply Logic Level Converter Hookup Guide
 
 This project will beep continuosly with a frequency proportional 
-to distance. A objects get closer the beep gets faster. 
+to distance. As objects get closer, the beep gets faster. 
 
 Hardware:
  HC-SR04 Ultrasonic Sensor 
- SparkFun Pro Micro 3.3V
+ Arduino Pro Mini 3.3V/8MHz
  SparkFun Single Supply Logic Level Converter
- Speaker
+ Piezo Buzzer
 
 */
 
 
 #define TRIG_PIN 10
-#define ECHO_PIN 16
+#define ECHO_PIN 11
 #define Beep 3
 
 void setup() {
