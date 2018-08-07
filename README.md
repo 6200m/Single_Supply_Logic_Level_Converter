@@ -1,7 +1,7 @@
 SparkFun Single Supply Logic Level Converter
 ========================================
 
-[![Single Supply Logic Level Converter](https://cdn.sparkfun.com/assets/parts/1/3/0/1/0/14765-SparkFun_Logic_Level_Converter_-_Single_Supply-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/3/0/1/0/14765-SparkFun_Logic_Level_Converter_-_Single_Supply-01.jpg)
+[![Single Supply Logic Level Converter](https://cdn.sparkfun.com/r/400-400/assets/parts/1/3/0/1/0/14765-SparkFun_Logic_Level_Converter_-_Single_Supply-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/3/0/1/0/14765-SparkFun_Logic_Level_Converter_-_Single_Supply-01.jpg)
 
 [*SparkFun Single Supply Logic Level Converter (PRT-14765)*](https://www.sparkfun.com/products/14765)
 
