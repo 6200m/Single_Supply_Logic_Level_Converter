@@ -1,9 +1,9 @@
-SparkFun <PRODUCT NAME>
+SparkFun Single Supply Logic Level Converter
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+[![Single Supply Logic Level Converter](https://cdn.sparkfun.com/assets/parts/1/3/0/1/0/14765-SparkFun_Logic_Level_Converter_-_Single_Supply-01.jpg)](https://cdn.sparkfun.com/assets/parts/1/3/0/1/0/14765-SparkFun_Logic_Level_Converter_-_Single_Supply-01.jpg)
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun Single Supply Logic Level Converter (PRT-14765)*](https://www.sparkfun.com/products/14765)
 
 <Basic description of the part.>
 
