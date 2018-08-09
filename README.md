@@ -24,7 +24,7 @@ Documentation
 
 Product Versions
 ----------------
-* [PRT-14765](https://www.sparkfun.com/products/14765)- Basic part and short description here
+* [PRT-14765](https://www.sparkfun.com/products/14765)- V1.0
 
 License Information
 -------------------
