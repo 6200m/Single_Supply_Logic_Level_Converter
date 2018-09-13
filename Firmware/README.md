@@ -1,7 +1,4 @@
 SparkFun <PRODUCT NAME> Firmware
-===================================
+=================================
 
-* **Examples** - <LANGUAGE> examples
-    * <EXAMPLE NAME> - <FUNCTION>
-
-
+Arduino example code used in the hookup guide for use with the single supply logic level converter.
